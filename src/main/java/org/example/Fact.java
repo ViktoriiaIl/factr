@@ -1,6 +1,6 @@
 package org.example;
 import java.util.Scanner;
-public class Main {
+public class Fact {
         static int factorial(int n){
             if (n == 0)
                 return 1;
