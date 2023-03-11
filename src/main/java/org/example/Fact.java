@@ -1,7 +1,7 @@
 package org.example;
 import java.util.Scanner;
 public class Fact {
-        static int factorial(int n){
+        public static int factorial(int n){
             if (n == 0)
                 return 1;
             else
